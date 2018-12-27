@@ -5,6 +5,8 @@ date: "27 december 2018"
 output: html_document
 ---
 
+This GitHub Page is published at a custom domain, the source code can be found at [https://github.com/barthuttinga/practical-machine-learning-course-project](https://github.com/barthuttinga/practical-machine-learning-course-project).
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
